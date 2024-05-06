@@ -1,3 +1,4 @@
 # Tarea-De-A-Pares-Cuidandonos
-Valentina Veron
-Julian Fernandez Makusas
+## Integrantes
+### Valentina Veron
+### Julian Fernandez Makusas
