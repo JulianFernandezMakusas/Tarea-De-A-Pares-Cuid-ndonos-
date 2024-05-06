@@ -5,13 +5,13 @@ class Viaje {
     private boolean finalizoViaje;
     private boolean finalizoParada;
     
-	// Constructor
-	public Viaje(Double tiempoEstimado, Direccion origen, List<Parada> destino, boolean finalizoViaje, boolean finalizoParada) {
-		this.tiempoEstimado = tiempoEstimado;
-		this.origen = origen;
-		this.destino = destino;
-		this.finalizoViaje = finalizoViaje;
-		this.finalizoParada = finalizoParada;
+    // Constructor
+    public Viaje(Double tiempoEstimado, Direccion origen, List<Parada> destino, boolean finalizoViaje, boolean finalizoParada) {
+	    this.tiempoEstimado = tiempoEstimado;
+	    this.origen = origen;
+	    this.destino = destino;
+	    this.finalizoViaje = finalizoViaje;
+	    this.finalizoParada = finalizoParada;
 	}
 	
     public int calcularTiempo() {
