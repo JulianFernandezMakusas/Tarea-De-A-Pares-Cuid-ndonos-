@@ -1,1 +1,3 @@
-# Tarea-De-A-Pares-Cuid-ndonos-
+# Tarea-De-A-Pares-Cuidandonos
+Valentina Veron
+Julian Fernandez Makusas
